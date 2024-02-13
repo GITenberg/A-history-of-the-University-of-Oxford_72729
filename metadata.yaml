@@ -1,5 +1,8 @@
 _repo: A-history-of-the-University-of-Oxford_72729
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72729-h/images/cover.jpg
 creator:
   author:
     agent_name: Brodrick, George C. (George Charles)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32205
     wikipedia: https://en.wikipedia.org/wiki/George_Charles_Brodrick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72729#A-history-of-the-University-of-Oxford
 gutenberg_issued: '2024-01-15'
 gutenberg_type: Text
 identifiers:
